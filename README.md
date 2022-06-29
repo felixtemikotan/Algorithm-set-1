@@ -19,4 +19,4 @@ You are to create a SPA (single page application) application using HTML, CSS an
 
 5. When you are done, host your application on heroku or netlify (submit link should be added to your turned in field on Teams)
 
-6. Also please note that all this should be done with JavaScript. You should not write html markup in your index.html file for each of the characters. You should get the data from the star wars API on page load using JavaScript and render all the characters also using JavaScript.
+
